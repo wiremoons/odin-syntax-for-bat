@@ -78,7 +78,7 @@ included in the [Bat Readme document](https://github.com/sharkdp/bat#adding-new-
 
 The `Odin.sublime-syntax`file was created by @gingerBill and is made availble from his repo here: [sublime-odin](https://github.com/odin-lang/sublime-odin/tree/master)
 
-As well as being kind enough to create this syntax highlighting file, @gingerBill then went on and made a whole language and complier to go with!! Be sure to visit the [Odin](https://github.com/odin-lang/Odin) GitHub repository and give it a ⭐️ - then learn more about [Odin](https://odin-lang.org) and "*enjoy program again*".
+As well as being kind enough to create this syntax highlighting file, @gingerBill then went on and made a whole language and complier to go with!! Be sure to visit the [Odin](https://github.com/odin-lang/Odin) GitHub repository and give it a ⭐️ and then learn more about [Odin](https://odin-lang.org) and "*enjoy programming again*".
 
 
 ## License
